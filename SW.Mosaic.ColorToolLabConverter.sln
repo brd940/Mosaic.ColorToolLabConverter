@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Mosaic.ColorToolLabConverter", "SW.Mosaic.ColorToolLabConverter\SW.Mosaic.ColorToolLabConverter.csproj", "{012D06AA-C29D-4D61-A08E-02CEC7248685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Mosaic.ColorToolLabConverter.Console", "SW.Mosaic.ColorToolLabConverter.Console\SW.Mosaic.ColorToolLabConverter.Console.csproj", "{297F3EE4-C5E1-45ED-BE94-358DDBAF2B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012D06AA-C29D-4D61-A08E-02CEC7248685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012D06AA-C29D-4D61-A08E-02CEC7248685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012D06AA-C29D-4D61-A08E-02CEC7248685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012D06AA-C29D-4D61-A08E-02CEC7248685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297F3EE4-C5E1-45ED-BE94-358DDBAF2B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297F3EE4-C5E1-45ED-BE94-358DDBAF2B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297F3EE4-C5E1-45ED-BE94-358DDBAF2B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297F3EE4-C5E1-45ED-BE94-358DDBAF2B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD93A16F-E81D-4DF6-8558-3C1DCF11562E}
+	EndGlobalSection
+EndGlobal
